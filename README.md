@@ -5,7 +5,7 @@ I'm a student interested in **science, programming, and technology**.
 ## 🚀 Projects
 
 🔹 **SciCompete**  
-An educational platform with academic tests and an AI assistant to help students learn science subjects.  
+An educational platform made by students for students, with the goal to help with academic success.  
 🌐 Website: [Visit SciCompete](scicompete.scienceontheweb.net)
 
 ## 🧠 Interests
