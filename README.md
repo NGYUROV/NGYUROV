@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Nikolay 👋
 
-<!--
-**NGYUROV/NGYUROV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student interested in **science, programming, and technology**.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **SciCompete**  
+An educational platform with academic tests and an AI assistant to help students learn science subjects.  
+🌐 Website: [Visit SciCompete](scicompete.scienceontheweb.net)
+
+## 🧠 Interests
+
+- Web development
+- Artificial Intelligence
+- Software projects
+- App development
+- Learning new things
+
+## 🛠️ Programming languages
+
+* HTML
+* CSS
+* JavaScript
+* C#
+* C++
+* Python 
+* PHP
+* SQL
